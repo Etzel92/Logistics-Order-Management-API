@@ -1,4 +1,4 @@
-# logistics-orders-api · NestJS + MongoDB
+# Logistics Order Management API
 
 API REST desarrollada con **NestJS (TypeScript)** y **MongoDB (Mongoose)** para la gestión de **usuarios**, **trucks**, **locations** y **orders**.  
 Incluye autenticación con **JWT**, validación de datos con `class-validator`, documentación interactiva con **Swagger** y consumo de **Google Places API** para resolver ubicaciones.
