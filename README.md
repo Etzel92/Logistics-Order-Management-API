@@ -129,7 +129,6 @@ created -> in_transit -> completed
 - npm
 - MongoDB
 - Google Places API key
-- Git
 
 ---
 
